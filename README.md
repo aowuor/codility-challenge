@@ -1,6 +1,6 @@
-## Codility Challenge
+# Codility Challenge
 
-# Description
+## Description
 
 Write a function solution(a, b, c) that calculates the total cost of buying all the fruits in a basket. The function takes in three parameters:
 a: an array of strings representing the names of the fruits in the basket.
